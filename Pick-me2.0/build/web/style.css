@@ -1,0 +1,34 @@
+.nav>li>a{
+  padding-right: 40px;
+  padding-left: 40px;
+  font-size: 20px;
+}
+.storyOf{
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1%;
+  padding-bottom: 5%;
+}
+.grey{
+  background-color: #37465b;
+}
+.green{
+  background-color: #c8c4a5;
+}
+.pink{
+  background-color: #d8d2dc;
+}
+.container>.col-lg-4, .col-lg-8{
+  text-align: center;
+  color: white;
+}
+.translucent{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 3%;
+ }
+ h3{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+  }
